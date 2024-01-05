@@ -21,3 +21,8 @@ https://www.tutorialspoint.com/mockito/mockito_first_application.htm
 When 
 
 https://javadoc.io/static/org.mockito/mockito-core/5.5.0/org/mockito/Mockito.html
+
+
+Binder 
+https://android.googlesource.com/platform/frameworks/native/+/jb-mr1-dev/include/binder/Binder.h
+android::hardware::hidl_binder_death_recipient::binderDied
