@@ -1,0 +1,1 @@
+javac -h . HelloWorldJNI.java
